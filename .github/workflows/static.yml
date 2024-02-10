@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>OneForAll</title>
+  <style>
+    body {
+      background-color: #f0f0f0;
+    }
+    h1 {
+      text-align: center;
+      font-family: Arial;
+      background-color: #808080;
+      color: white;
+    }
+    p {
+      text-align: center;
+      font-family: Arial;
+      font-size: 25px;
+    }
+    p a {
+      text-decoration: underline;
+    }
+    table {
+      margin: auto;
+      border-collapse: collapse;
+    }
+    th, td {
+      border: 1px solid black;
+      padding: 8px;
+    }
+  </style>
+</head>
+<body>
+  <h1>OneForAll Host List</h1>
+  <p>Finally a list that brings together all lists</p>
+  <p>
+    <a href="#" target="_blank">OneForCorn</a> | 
+    <a href="#" target="_blank">OneForAds</a> | 
+    <a href="#" target="_blank">OneForAll</a> | 
+    <a href="#" target="_blank">OneForSafe</a> | 
+    <a href="#" target="_blank">OneForEnterprise</a>
+  </p><br>
+  <h1 style="text-align: center; text-decoration: underline;">Crédits</h1><br>
+  <table>
+    <tr>
+      <td><a href="#" target="_blank">Row 1, Cell 1</a></td>
+      <td><a href="#" target="_blank">Row 1, Cell 2</a></td>
+      <td><a href="#" target="_blank">Row 1, Cell 3</a></td>
+      <td><a href="#" target="_blank">Row 1, Cell 4</a></td>
+      <td><a href="#" target="_blank">Row 1, Cell 5</a></td>
+    </tr>
+    <tr>
+      <td><a href="#" target="_blank">Row 2, Cell 1</a></td>
+      <td><a href="#" target="_blank">Row 2, Cell 2</a></td>
+      <td><a href="#" target="_blank">Row 2, Cell 3</a></td>
+      <td><a href="#" target="_blank">Row 2, Cell 4</a></td>
+      <td><a href="#" target="_blank">Row 2, Cell 5</a></td>
+    </tr>
+  </table>
+</body>
+</html>
