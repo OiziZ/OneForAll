@@ -37,4 +37,4 @@ for link in links:
                 if clean_line_result:
                     write_to_output_file(clean_line_result)
 
-print("Files oneforenterprise.txt ok")
+print("Files oneforsafe.txt ok")
